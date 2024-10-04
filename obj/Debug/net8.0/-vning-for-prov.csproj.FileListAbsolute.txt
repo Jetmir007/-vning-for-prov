@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\-vning-for-prov\bin\Debug\net8.0\-vning-for-prov.exe
+C:\Users\Admin\Documents\GitHub\-vning-for-prov\bin\Debug\net8.0\-vning-for-prov.deps.json
+C:\Users\Admin\Documents\GitHub\-vning-for-prov\bin\Debug\net8.0\-vning-for-prov.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\-vning-for-prov\bin\Debug\net8.0\-vning-for-prov.dll
+C:\Users\Admin\Documents\GitHub\-vning-for-prov\bin\Debug\net8.0\-vning-for-prov.pdb
+C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.dll
+C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\refint\-vning-for-prov.dll
+C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.pdb
+C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\ref\-vning-for-prov.dll
