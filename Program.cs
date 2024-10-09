@@ -2,12 +2,15 @@
 double c= 3.5;
 string a="Jag har " +b+ " äpplen som väger "+c+"kg";
 Console.WriteLine(a);
+
 Console.WriteLine("Skriv din ålder");
 string a= Console.ReadLine();
 Console.WriteLine("Du är " +a +" år gammal");
+
 Console.WriteLine("Skriv ett tal");
 int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Kvadraten av "+ a + " är " + Math.Pow(a, 2));
+
 Console.WriteLine("Skriv ett tal");
 int a= Convert.ToInt32(Console.ReadLine());
 int c = a-1;
@@ -32,7 +35,19 @@ void Main()
     }
     else if(sätt == "-")
     {
+<<<<<<< HEAD
         Console.WriteLine("Skillnaden mellan dina tal är" + (nummer[0] - nummer[1]));
+=======
+        Console.WriteLine("Skillnaden mellan dina tal är" + (nummer[1] - nummer[2]));
+    }
+    else if(sätt == "/")
+    {
+        Console.WriteLine("Kvoten av dina tal är " + nummer[1]/nummer[2]);
+    }
+    else if(sätt == "*")
+    {
+        Console.WriteLine("Produkten av dina tal är " + nummer[1]*nummer[2]);
+>>>>>>> e7ed05f9226395288135ee9b5b41143f66a254af
     }
     else if(sätt == "/")
     {
