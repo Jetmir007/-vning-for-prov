@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\refint\-vning-f
 C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.pdb
 C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\ref\-vning-for-prov.dll
+C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.sourcelink.json

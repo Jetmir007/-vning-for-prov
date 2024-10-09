@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("-vning-for-prov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86fd0f292b5406a3995193cc01ae48adabdad2c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e295175a453c6845d7fa87841acec0d197a520c")]
 [assembly: System.Reflection.AssemblyProductAttribute("-vning-for-prov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("-vning-for-prov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
