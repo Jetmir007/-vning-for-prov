@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("-vning-for-prov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30c070efbc2c6dd5914b2f77d4a13120bff58f54")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7ed05f9226395288135ee9b5b41143f66a254af")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("-vning-for-prov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("-vning-for-prov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
