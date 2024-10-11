@@ -12,4 +12,22 @@ C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\refint\-vning-f
 C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.pdb
 C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\ref\-vning-for-prov.dll
+<<<<<<< Updated upstream
 C:\Users\Admin\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.sourcelink.json
+=======
+C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\bin\Debug\net8.0\-vning-for-prov.exe
+C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\bin\Debug\net8.0\-vning-for-prov.deps.json
+C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\bin\Debug\net8.0\-vning-for-prov.runtimeconfig.json
+C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\bin\Debug\net8.0\-vning-for-prov.dll
+C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\bin\Debug\net8.0\-vning-for-prov.pdb
+C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.AssemblyInfoInputs.cache
+C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.AssemblyInfo.cs
+C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.csproj.CoreCompileInputs.cache
+C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.sourcelink.json
+C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.dll
+C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\refint\-vning-for-prov.dll
+C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.pdb
+C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.genruntimeconfig.cache
+C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\ref\-vning-for-prov.dll
+>>>>>>> Stashed changes
