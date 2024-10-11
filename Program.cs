@@ -35,19 +35,7 @@ void Main()
     }
     else if(sätt == "-")
     {
-<<<<<<< HEAD
-        Console.WriteLine("Skillnaden mellan dina tal är" + (nummer[0] - nummer[1]));
-=======
-        Console.WriteLine("Skillnaden mellan dina tal är" + (nummer[1] - nummer[2]));
-    }
-    else if(sätt == "/")
-    {
-        Console.WriteLine("Kvoten av dina tal är " + nummer[1]/nummer[2]);
-    }
-    else if(sätt == "*")
-    {
-        Console.WriteLine("Produkten av dina tal är " + nummer[1]*nummer[2]);
->>>>>>> e7ed05f9226395288135ee9b5b41143f66a254af
+        Console.WriteLine("Skillnaden mellan dina tal är " + (nummer[0] - nummer[1]));
     }
     else if(sätt == "/")
     {
@@ -57,6 +45,11 @@ void Main()
     {
         Console.WriteLine("Produkten av dina tal är " + nummer[0]*nummer[1]);
     }
+    else if(sätt == "/")
+    {
+        Console.WriteLine("Kvoten av dina tal är " + nummer[0]/nummer[1]);
+    }
+    
     else if(sätt == "Upp")
     {
         Console.WriteLine("Svaret på potensen av dina tal är " + Math.Pow(nummer[0], nummer[1]));
@@ -115,3 +108,15 @@ void Udda()
 }
 Udda();
 */
+
+int n = 6;
+static int N( ref int a, int n)
+{
+    while (a<n)
+    {
+        a = ((n - 1) - 1) + ((n - 2) - 1);
+    }
+    return(a);
+}
+Console.WriteLine(N(ref a, n));
+
