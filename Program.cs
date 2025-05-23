@@ -60,7 +60,7 @@ void Main()
     }
 }
 Main();
-
+*/
 void Udda()
 {
     Console.WriteLine("Skriv diit första tal");
@@ -107,8 +107,8 @@ void Udda()
     }
 }
 Udda();
-*/
 
+/*
 int n = 6;
 static int N( ref int a, int n)
 {
@@ -118,5 +118,6 @@ static int N( ref int a, int n)
     }
     return(a);
 }
-Console.WriteLine(N(ref a, n));
+Console.WriteLine(N(a, n));
 
+*/

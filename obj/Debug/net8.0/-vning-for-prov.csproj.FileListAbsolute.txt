@@ -31,3 +31,18 @@ C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-
 C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.genruntimeconfig.cache
 C:\Users\jeku07001\Documents\GitHub\-vning-for-prov\obj\Debug\net8.0\ref\-vning-for-prov.dll
 >>>>>>> Stashed changes
+C:\Github\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.AssemblyInfoInputs.cache
+C:\Github\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.AssemblyInfo.cs
+C:\Github\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.csproj.CoreCompileInputs.cache
+C:\Github\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.sourcelink.json
+C:\Github\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.dll
+C:\Github\-vning-for-prov\obj\Debug\net8.0\refint\-vning-for-prov.dll
+C:\Github\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.pdb
+C:\Github\-vning-for-prov\bin\Debug\net8.0\-vning-for-prov.exe
+C:\Github\-vning-for-prov\bin\Debug\net8.0\-vning-for-prov.deps.json
+C:\Github\-vning-for-prov\bin\Debug\net8.0\-vning-for-prov.runtimeconfig.json
+C:\Github\-vning-for-prov\bin\Debug\net8.0\-vning-for-prov.dll
+C:\Github\-vning-for-prov\bin\Debug\net8.0\-vning-for-prov.pdb
+C:\Github\-vning-for-prov\obj\Debug\net8.0\-vning-for-prov.genruntimeconfig.cache
+C:\Github\-vning-for-prov\obj\Debug\net8.0\ref\-vning-for-prov.dll
